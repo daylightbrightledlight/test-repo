@@ -1,5 +1,7 @@
 # stale.yml
 
+# @todo Clean stale code
+
 # Number of days of inactivity before an issue becomes stale
 daysUntilStale: 60
 # Number of days of inactivity before a stale issue is closed
