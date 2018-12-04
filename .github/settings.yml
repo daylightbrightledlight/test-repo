@@ -41,6 +41,6 @@ labels:
   - name: top
     color: f442c2
     description: Top issue or pull request
-  - name: wontfix
+  - name: no fix
     color: ffffff
     description: This will not be worked on
