@@ -1,3 +1,15 @@
+# config
+
+todo:
+  autoAssign: true
+  keyword: ['@todo', 'TODO']
+  bodyKeyword: [@body, 'BODY']
+  blobLines: 5
+  caseSensitive: true
+  label: true
+  reopenClosed: true
+  # exclude: null
+
 # Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
 
 # Comment to be posted to on first time issues
