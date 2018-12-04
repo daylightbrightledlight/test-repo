@@ -1,6 +1,6 @@
 # config
 
-# @tdo Add todo code config
+# @todo Add todo code config
 
 todo:
   autoAssign: true
