@@ -1,0 +1,9 @@
+repository:
+  name: test-repo
+  description: Test repo
+  # homepage: https://example.com/
+  private: false
+  has_issues: true
+  # has_wiki: true
+  # has_downloads: true
+  default_branch: master
