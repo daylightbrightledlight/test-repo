@@ -1,6 +1,7 @@
 # stale.yml
 
 # @todo Clean stale code
+# @body Todo body goes here
 
 # Number of days of inactivity before an issue becomes stale
 daysUntilStale: 60

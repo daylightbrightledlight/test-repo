@@ -1,5 +1,7 @@
 # config
 
+# @tdo Add todo code config
+
 todo:
   autoAssign: true
   keyword: ['@todo', 'TODO']
