@@ -1,32 +1,5 @@
 # config
 
-# Configuration for todo - https://github.com/JasonEtco/todo
-
-todo:
-  autoAssign: true
-  keyword: ['@todo', 'TODO']
-  bodyKeyword: ['@body', 'BODY']
-  blobLines: 5
-  caseSensitive: true
-  label: true
-  reopenClosed: true
-  # exclude: null
-
-# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
-
-newIssueWelcomeComment: >
-  Thanks for opening your first issue here! Be sure to follow the issue template!
-
-# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
-
-newPRWelcomeComment: >
-  Thanks for opening this pull request! Please check out our contributing guidelines.
-
-# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
-
-firstPRMergeComment: >
-  Congrats on merging your first pull request!
-
 # Configuration for request-info - https://github.com/behaviorbot/request-info
 
 requestInfoReplyComment: >
