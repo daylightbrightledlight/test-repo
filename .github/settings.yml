@@ -8,7 +8,7 @@ repository:
   has_issues: true
   has_projects: false
   has_wiki: false
-  # has_downloads: true
+  has_downloads: false
   default_branch: master
 labels:
   - name: bug
