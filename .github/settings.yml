@@ -42,9 +42,6 @@ labels:
   - name: stale
     color: ffffff
     description: Inactive issue or pull request
-  - name: top
-    color: f442c2
-    description: Top issue or pull request
   - name: wontfix
     color: ffffff
     description: This will not be worked on
