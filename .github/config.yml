@@ -1,9 +1,6 @@
 # config
 
-# Configuration for todo
-# See https://github.com/JasonEtco/todo
-# See https://probot.github.io/apps/todo/
-# See https://github.com/apps/todo
+# Configuration for todo - https://github.com/JasonEtco/todo
 
 todo:
   autoAssign: true
@@ -32,10 +29,6 @@ newPRWelcomeComment: >
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
   Congrats on merging your first pull request!
-
-# It is recommend to include as many gifs and emojis as possible
-
-
 
 # See https://probot.github.io/apps/request-info/
 
