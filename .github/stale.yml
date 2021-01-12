@@ -1,6 +1,5 @@
 # stale.yml
-
-# This is a configuration file for https://probot.github.io/apps/stale/
+# See https://probot.github.io/apps/stale/ and https://github.com/apps/stale
 
 # @todo Clean stale code
 # @body Todo body goes here
