@@ -12,10 +12,10 @@ repository:
   description: Test repo
 
   # A URL with more information about the repository
-#   homepage: https://example.github.io/
+  # homepage: https://example.github.io/
 
   # A comma-separated list of topics to set on the repository
-#   topics: github, probot
+  # topics: github, probot
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
