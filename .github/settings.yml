@@ -1,5 +1,6 @@
 # settings.yml
-# See https://probot.github.io/apps/settings/ and https://github.com/apps/settings
+
+# Configuration for probot-settings - https://github.com/probot/settings
 
 repository:
   name: test-repo
@@ -11,6 +12,7 @@ repository:
   has_wiki: false
   has_downloads: false
   default_branch: master
+
 labels:
   - name: bug
     color: d73a4a
