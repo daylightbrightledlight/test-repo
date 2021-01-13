@@ -1,9 +1,8 @@
 # settings.yml
 
-# Configuration for probot-settings - https://github.com/probot/settings
+# See configuration for probot-settings - https://github.com/probot/settings
 
 repository:
-  # See https://developer.github.com/v3/repos/#edit for all available settings.
 
   # The name of the repository. Changing this will rename the repository
   name: test-repo
